@@ -10,7 +10,7 @@ int main()
     std::cout << "Please enter the value of a: ";
     std::cin >> a;
 
-    double perimeter = 4 * a;
+    double perimeter = 6 * a;
     double area = a * a;
 
     std::cout << "The perimeter is: " << perimeter << std::endl;
